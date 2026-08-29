@@ -10,7 +10,7 @@ HERO_BOUTON_1 = Je veux en savoir plus
 HERO_BOUTON_2 = Voir les dates
 
 CHIFFRE_1_TITRE = 45 h + suivi
-CHIFFRE_1_TEXTE = 6 journées en présentiel et accompagnement à distance
+CHIFFRE_1_TEXTE = 6 journées en présentiel + accompagnement à distance
 CHIFFRE_2_TITRE = Chiens variés
 CHIFFRE_2_TEXTE = participants, instructeurs et clients
 CHIFFRE_3_TITRE = Petit groupe
@@ -19,11 +19,11 @@ CHIFFRE_4_TITRE = Ratio 1:4
 CHIFFRE_4_TEXTE = 2 instructeurs présents
 
 PUBLIC_TITRE = Vous êtes la bonne personne si…
-PUBLIC_POINT_1 = Vous avez de l’expérience en détection d’odeurs.
-PUBLIC_POINT_2 = Vous enseignez ou accompagnez déjà des équipes.
+PUBLIC_POINT_1 = Vous avez de l’expérience en détection d’odeurs et souhaitez enseigner.
+PUBLIC_POINT_2 = Vous enseignez ou accompagnez déjà des équipes en détection d'odeurs.
 PUBLIC_POINT_3 = Vous souhaitez approfondir vos compétences d’instructeur.
-PUBLIC_POINT_4 = Vous voulez faire progresser différentes équipes.
-PUBLIC_AVIS_TITRE = Ce n’est pas une formation d’initiation.
+PUBLIC_POINT_4 = Vous aimeriez faire partie d'un réseau d'instructeurs en détection d'odeurs
+PUBLIC_AVIS_TITRE = Ce n’est pas une formation d’initiation à la détection d'odeurs.
 PUBLIC_AVIS_TEXTE = Les candidats doivent posséder une expérience préalable en détection d’odeurs ou en enseignement dans le domaine de l’éducation canine.
 
 APPROCHE_TITRE = Développez votre façon d’enseigner
@@ -35,29 +35,29 @@ APPROCHE_4 = Analyser
 APPROCHE_5 = Adapter
 
 COMPETENCES_TITRE = Ce que vous apprendrez à enseigner
-COMPETENCE_1 = Construire une progression pédagogique
+COMPETENCE_1 = Construire une progression pédagogique de l'introduction à des niveaux avancés
 COMPETENCE_2 = Enseigner en privé et en groupe
 COMPETENCE_3 = Créer un atelier découverte
-COMPETENCE_4 = Lire et accompagner l’équipe
+COMPETENCE_4 = Personnalisé vos enseignements
 COMPETENCE_5 = Résoudre les difficultés
-COMPETENCE_6 = Développer vers les niveaux avancés SDDA et CKC
+COMPETENCE_6 = Coacher vos étudiants vers les concours SDDA et CKC
 
 SUIVI_TITRE = Entre les journées, votre formation continue.
-SUIVI_1_TITRE = Pratique et travaux
-SUIVI_1_TEXTE = Mise en application des apprentissages.
+SUIVI_1_TITRE = Enseigner, pratiquer et remises de vidéos
+SUIVI_1_TEXTE = Mise en application des apprentissages
 SUIVI_2_TITRE = Révision de vidéos
-SUIVI_2_TEXTE = Observation concrète de votre travail.
+SUIVI_2_TEXTE = Observation concrète de votre travail
 SUIVI_3_TITRE = Rétroactions
-SUIVI_3_TEXTE = Analyse et pistes de progression personnalisées.
+SUIVI_3_TEXTE = Analyse et pistes de progression personnalisées
 SUIVI_4_TITRE = Soutien à l’instructeur
-SUIVI_4_TEXTE = Développer votre jugement et votre façon d’enseigner.
+SUIVI_4_TEXTE = Développer votre jugement et votre façon d’enseigner
 
-DATES_TITRE = Prochaines dates
-DATE_1 = 5–6 décembre 2026
-DATE_2 = 30–31 janvier 2027
-DATE_3 = 20 mars 2027
-DATE_4 = 17 avril 2027
-DATES_NOTE = 6 journées · 45 heures en présentiel
+DATES_TITRE = Dates en présentiel durant la cohorte
+DATE_1 = Module 1 : 5–6 décembre 2026
+DATE_2 = Module 2 : 30–31 janvier 2027
+DATE_3 = Module 3 : 20 mars 2027
+DATE_4 = Module 4 : 17 avril 2027
+DATES_NOTE = 6 journées · 45 heures en présentiel- 2 instructeurs
 
 LIEU_TITRE = Lieu de formation
 LIEU_NOM = Centre Canin Le Gardeur
@@ -65,19 +65,19 @@ LIEU_ADRESSE_1 = 455, chemin de la Presqu’île
 LIEU_ADRESSE_2 = Repentigny (Québec) J5Z 4C7
 LIEU_TEXTE = Un environnement adapté au travail pratique en détection d’odeurs avec différents chiens et différentes équipes.
 
-FORMATEUR_1_NOM = René
+FORMATEUR_1_NOM = René Arcand
 FORMATEUR_1_TEXTE = Formateur présent pendant les journées pratiques et l’accompagnement pédagogique.
-FORMATEUR_2_NOM = Jacinthe
+FORMATEUR_2_NOM = Jacynthe Boulanger
 FORMATEUR_2_TEXTE = Formatrice présente pendant les journées pratiques et l’accompagnement pédagogique.
 
-TARIF_ETIQUETTE = Cohorte fondatrice 2026–2027
+TARIF_ETIQUETTE = Cohorte de lancement 2026–2027
 TARIF = 1 750 $ + taxes
 TARIF_NOTE = Valeur des prochaines cohortes : 1 950 $ + taxes
 TARIF_BOUTON = Réserver ma place à la soirée d’information
 
-ZOOM_TITRE = Découvrez la formation lors de notre soirée d’information Zoom
+ZOOM_TITRE = Découvrez la formation lors de notre soirée d’information en ligne.
 ZOOM_TEXTE = Nous présenterons le programme, le fonctionnement de la cohorte et répondrons à vos questions. Aucun engagement requis.
-ZOOM_BOUTON = Je m’inscris à la soirée Zoom
+ZOOM_BOUTON = Je m’inscris à la soirée d'informations.
 
 FORM_NOM = Nom complet
 FORM_EMAIL = Courriel
