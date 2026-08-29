@@ -23,8 +23,8 @@ PUBLIC_POINT_1 = Vous avez de l’expérience en détection d’odeurs et souhai
 PUBLIC_POINT_2 = Vous enseignez ou accompagnez déjà des équipes en détection d'odeurs.
 PUBLIC_POINT_3 = Vous souhaitez approfondir vos compétences d’instructeur.
 PUBLIC_POINT_4 = Vous aimeriez faire partie d'un réseau d'instructeurs en détection d'odeurs
-PUBLIC_AVIS_TITRE = Ce n’est pas une formation d’initiation à la détection d'odeurs.
-PUBLIC_AVIS_TEXTE = Les candidats doivent posséder une expérience préalable en détection d’odeurs ou en enseignement dans le domaine de l’éducation canine.
+PUBLIC_AVIS_TITRE = Ce n’est pas une formation d’initiation à la détection d’odeurs.
+PUBLIC_AVIS_TEXTE = Cette formation s’adresse aux personnes qui possèdent déjà une expérience en détection d’odeurs ou en enseignement dans le domaine canin. Un processus de sélection est prévu afin de former une cohorte dont les participants possèdent les bases nécessaires pour profiter pleinement de la formation et progresser ensemble. Vous souhaitez faire partie de la prochaine cohorte? Posez votre candidature.
 
 APPROCHE_TITRE = Développez votre façon d’enseigner
 APPROCHE_TEXTE = Cinq verbes structurent le travail d’instructeur.
@@ -73,7 +73,7 @@ FORMATEUR_2_TEXTE = Formatrice présente pendant les journées pratiques et l’
 TARIF_ETIQUETTE = Cohorte de lancement 2026–2027
 TARIF = 1 750 $ + taxes
 TARIF_NOTE = Valeur des prochaines cohortes : 1 950 $ + taxes
-TARIF_BOUTON = Réserver ma place à la soirée d’information
+TARIF_BOUTON = Poser ma candidature
 
 ZOOM_TITRE = Découvrez la formation lors de notre soirée d’information en ligne.
 ZOOM_TEXTE = Nous présenterons le programme, le fonctionnement de la cohorte et répondrons à vos questions. Aucun engagement requis.
