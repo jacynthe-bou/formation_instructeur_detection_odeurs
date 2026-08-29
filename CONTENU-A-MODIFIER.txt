@@ -1,0 +1,98 @@
+# LANDING PAGE — TEXTES À MODIFIER
+#
+# Modifiez seulement ce qui se trouve APRÈS le signe =
+# Ne changez pas le nom du champ à gauche.
+# Une fois la modification enregistrée dans GitHub, la landing page se mettra à jour automatiquement après le déploiement Vercel.
+
+# — PREMIÈRE SECTION / HERO —
+HERO_SURTITRE = Cohorte 2026–2027 · Candidatures limitées
+HERO_TITRE_1 = Devenez instructeur en
+HERO_TITRE_2 = détection d’odeurs
+HERO_TEXTE = Une formation pratique avec René et Jacinthe pour développer les compétences qui permettent d’accompagner chaque équipe vers une progression efficace et durable.
+HERO_BOUTON_INFO = Participer à la soirée d’information
+HERO_BOUTON_PROGRAMME = Découvrir le programme
+HERO_METRIQUE_1_CHIFFRE = 45 h + suivi
+HERO_METRIQUE_1_TEXTE = formation en présentiel et accompagnement pédagogique à distance
+HERO_METRIQUE_2_CHIFFRE = 2
+HERO_METRIQUE_2_TEXTE = instructeurs présents
+HERO_METRIQUE_3_CHIFFRE = 8
+HERO_METRIQUE_3_TEXTE = participants maximum
+HERO_METRIQUE_4_CHIFFRE = 1:4
+HERO_METRIQUE_4_TEXTE = ratio instructeur / participants
+
+# — À QUI S’ADRESSE LA FORMATION —
+PUBLIC_SURTITRE = À qui s’adresse la formation
+PUBLIC_TITRE = Cette formation est pour vous si…
+PUBLIC_1_TITRE = Vous enseignez déjà la détection d’odeurs
+PUBLIC_1_TEXTE = Vous souhaitez approfondir vos connaissances, développer votre pédagogie et enrichir vos outils d’enseignement.
+PUBLIC_2_TITRE = Vous êtes éducateur ou éducatrice canin(e)
+PUBLIC_2_TEXTE = Vous possédez de l’expérience en enseignement canin et souhaitez intégrer la détection d’odeurs à vos services.
+PUBLIC_3_TITRE = Vous pratiquez activement la discipline
+PUBLIC_3_TEXTE = Vous avez de l’expérience en entraînement ou en concours et souhaitez maintenant apprendre à transmettre vos acquis.
+PUBLIC_AVIS_TITRE = Ce n’est pas une formation d’initiation.
+PUBLIC_AVIS_TEXTE = Les candidats doivent posséder une expérience préalable en détection d’odeurs ou en enseignement dans le domaine de l’éducation canine.
+
+# — APPROCHE —
+APPROCHE_SURTITRE = Notre approche
+APPROCHE_TITRE = Développez votre façon d’enseigner la détection d’odeurs.
+APPROCHE_TEXTE_1 = Enseigner la détection d’odeurs, c’est créer les conditions qui permettent à chaque équipe de progresser tout en conservant le plaisir, la motivation et la passion.
+APPROCHE_TEXTE_2 = Vous développerez votre capacité à planifier une progression, enseigner clairement, observer le chien et son conducteur, analyser ce qui se produit et adapter votre approche.
+APPROCHE_PHRASE_FORTE = Parce que chaque chien est différent. Chaque conducteur l’est aussi.
+
+# — FORMATION PRATIQUE —
+PRATIQUE_SURTITRE = Apprendre dans l’action
+PRATIQUE_TITRE = Une formation axée sur la pratique.
+PRATIQUE_TEXTE_1 = Pour apprendre à enseigner, il faut pratiquer soi-même la discipline. Une grande partie de la formation se déroule dans l’action : observer des équipes, enseigner, intervenir, analyser une situation, ajuster son approche et recommencer.
+PRATIQUE_TEXTE_2 = Vous travaillerez avec différents chiens et différentes équipes : vos propres chiens, les chiens des instructeurs ainsi que des chiens de clients.
+
+# — ACCOMPAGNEMENT —
+SUIVI_SURTITRE = Accompagnement continu
+SUIVI_TITRE = Entre les journées, votre formation continue.
+SUIVI_TEXTE = L’accompagnement pédagogique à distance vous permet de mettre les notions en pratique dans vos propres enseignements et de poursuivre votre développement comme instructeur entre les rencontres.
+
+# — PROGRAMME —
+PROGRAMME_SURTITRE = Compétences développées
+PROGRAMME_TITRE = Ce que vous apprendrez à enseigner.
+
+# — FORMATEURS —
+FORMATEURS_SURTITRE = Vos formateurs
+FORMATEURS_TITRE = Deux instructeurs, deux regards, une même exigence.
+RENE_NOM = René
+RENE_BIO = Biographie et photo à ajouter.
+JACINTHE_NOM = Jacinthe
+JACINTHE_BIO = Biographie et photo à ajouter.
+
+# — CALENDRIER —
+CALENDRIER_SURTITRE = Calendrier 2026–2027
+CALENDRIER_TITRE = Six journées en présentiel.
+DATE_1 = 5–6 décembre 2026
+DATE_1_DETAIL = Bloc 1 · 2 journées
+DATE_2 = 30–31 janvier 2027
+DATE_2_DETAIL = Bloc 2 · 2 journées
+DATE_3 = 20 mars 2027
+DATE_3_DETAIL = Bloc 3 · 1 journée
+DATE_4 = 17 avril 2027
+DATE_4_DETAIL = Bloc 4 · 1 journée
+CALENDRIER_NOTE = Travaux, remises vidéo, rétroactions et accompagnement à distance entre les rencontres.
+
+# — LIEU —
+LIEU_SURTITRE = Lieu de formation
+LIEU_TITRE = Un environnement adapté au travail pratique.
+LIEU_TEXTE = Les journées en présentiel se déroulent au Centre Canin Le Gardeur, dans un environnement adapté à l’entraînement et à l’enseignement de la détection d’odeurs.
+LIEU_NOM = Centre Canin Le Gardeur
+LIEU_ADRESSE = 455, chemin de la Presqu’île | Repentigny (Québec) J5Z 4C7
+
+# — TARIF —
+TARIF_ETIQUETTE = COHORTE FONDATRICE
+TARIF_TITRE = Une cohorte volontairement limitée à 8 participants.
+TARIF_TEXTE = L’admission se fait sur candidature afin de réunir des participants possédant les acquis et les objectifs nécessaires.
+TARIF_LIBELLE = Tarif de lancement
+TARIF_PRIX = 1 750 $
+TARIF_TAXES = + taxes
+TARIF_REGULIER = Tarif régulier prévu : 1 950 $ + taxes
+
+# — SOIRÉE D’INFORMATION / FORMULAIRE —
+INFO_SURTITRE = Première étape · Sans engagement
+INFO_TITRE = Vous pensez que cette formation pourrait être pour vous?
+INFO_TEXTE = Commencez par venir rencontrer René et Jacinthe lors de la soirée d’information en ligne.
+INFO_BOUTON = Je veux recevoir les informations sur la soirée Zoom
