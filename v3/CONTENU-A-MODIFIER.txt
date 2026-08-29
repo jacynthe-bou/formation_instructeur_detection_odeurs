@@ -5,7 +5,7 @@
 HERO_SURTITRE = Cohorte 2026–2027 · Candidatures limitées
 HERO_TITRE_1 = Devenez instructeur en
 HERO_TITRE_2 = détection d’odeurs.
-HERO_TEXTE = Une formation pratique avec René et Jacinthe pour développer les compétences qui permettent d’accompagner chaque équipe vers une progression efficace et durable.
+HERO_TEXTE = Une formation pratique avec Renée Arcand et Jacynthe Boulanger pour développer les compétences qui permettent d’accompagner chaque équipe vers une progression efficace et durable.
 HERO_BOUTON_1 = Je veux en savoir plus
 HERO_BOUTON_2 = Voir les dates
 
@@ -43,9 +43,9 @@ COMPETENCE_5 = Résoudre les difficultés
 COMPETENCE_6 = Coacher vos étudiants vers les concours SDDA et CKC
 
 SUIVI_TITRE = Entre les journées, votre formation continue.
-SUIVI_1_TITRE = Enseigner, pratiquer et remises de vidéos
+SUIVI_1_TITRE = Enseignez, pratiquez et remettez vos vidéos
 SUIVI_1_TEXTE = Mise en application des apprentissages
-SUIVI_2_TITRE = Révision de vidéos
+SUIVI_2_TITRE = Révision de vidéos par vos enseignantes
 SUIVI_2_TEXTE = Observation concrète de votre travail
 SUIVI_3_TITRE = Rétroactions
 SUIVI_3_TEXTE = Analyse et pistes de progression personnalisées
