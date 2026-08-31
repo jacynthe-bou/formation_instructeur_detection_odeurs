@@ -58,6 +58,8 @@ DATE_2 = Module 2 : 30–31 janvier 2027
 DATE_3 = Module 3 : 20 mars 2027
 DATE_4 = Module 4 : 17 avril 2027
 DATES_NOTE = 6 journées · 45 heures en présentiel- 2 instructeurs
+PREP_TITRE = Soirée de formation théorique préparatoire à la première fin de semaine
+PREP_DATE = 27 novembre 2026 · En ligne
 
 LIEU_TITRE = Lieu de formation
 LIEU_NOM = Centre Canin Le Gardeur
